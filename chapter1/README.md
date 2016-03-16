@@ -10,4 +10,4 @@ automation, we recommend you use `npm run watch` to re-run your tests every
 time you change the `interface.js` file. Once the tests succeed, `npm run watch`
 will terminate and print a "secret code" consisting of a short phrase.
 Copy this code into the assessment page in your browser to complete this
-assessment.
+assessment. 
